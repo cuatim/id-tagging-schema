@@ -3,10 +3,10 @@
     "type": "radio",
     "strings": {
         "options": {
+            "designated": "Designated",
             "yes": "Yes",
             "limited": "Limited",
-            "no": "No",
-            "designated": "Designated"
+            "no": "No"
         }
     },
     "label": "Wheelchair Access",
